@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/tCVWM0D/1.jpg",
+        "title": "Lorem Ipsum: The Complete Guide",
+        "author": "John Doe",
+        "img": "https://i.ibb.co/Xb9TrBj/profile.png",
+        "posted": "2023-10-15",
+        "date": "2023-10-20",
+        "readingtime": 10,
+        "hashtags": [
+            "lorem",
+            "ipsum",
+            "guide"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/XjwLtft/2.png",
+        "title": "Cooking Adventures in Paris",
+        "author": "Jane Smith",
+        "img": "https://i.ibb.co/Xb9TrBj/profile.pnghttps://i.ibb.co/HrgLphb/girl1.jpg",
+        "posted": "2023-10-18",
+        "date": "2023-10-25",
+        "readingtime": 15,
+        "hashtags": [
+            "cooking",
+            "paris",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/KN9XS7j/3.png",
+        "title": "Hiking the Grand Canyon",
+        "author": "Michael Johnson",
+        "img": "https://i.ibb.co/RcM53LQ/girl2.jpg",
+        "posted": "2023-10-21",
+        "date": "2023-10-30",
+        "readingtime": 12,
+        "hashtags": [
+            "hiking",
+            "grandcanyon",
+            "adventure"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/fNj19td/4.jpg",
+        "title": "Art of Photography",
+        "author": "Emily Brown",
+        "img": "https://i.ibb.co/sPg8cT5/boy1.png",
+        "posted": "2023-10-24",
+        "date": "2023-11-02",
+        "readingtime": 8,
+        "hashtags": [
+            "photography",
+            "art",
+            "creativity"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/3fV3TZc/download.jpg",
+        "title": "Traveling Through Time: Historical Sites",
+        "author": "David Wilson",
+        "img": "https://i.ibb.co/vsnGWFq/boy2.jpg",
+        "posted": "2023-10-27",
+        "date": "2023-11-05",
+        "readingtime": 20,
+        "hashtags": [
+            "travel",
+            "history",
+            "sightseeing"
+        ]
+    }
+]
